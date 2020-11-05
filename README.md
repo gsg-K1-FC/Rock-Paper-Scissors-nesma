@@ -15,9 +15,9 @@
 The winner is announced
 
 # Languages And Tools:
-- HTML
-- CSS
-- JS
-- VS
+- JavaScript Mainly
+- Html, CSS
+- Visual Studio Code
+- Git-Github
 
 # You can see the final Result by clicking the below link:
