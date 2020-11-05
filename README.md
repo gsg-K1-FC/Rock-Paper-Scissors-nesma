@@ -1,5 +1,8 @@
 # Rock-Paper-Scissors-nesma
 
+# Initial game, scribble design
+ ![خربشات](https://user-images.githubusercontent.com/52491098/98239315-6c609800-1f70-11eb-8e36-66339097c0ca.jpg)
+
 # Why i did this?
  In this project I will create a rock-paper-scissors game using html css js programming languages.
  
