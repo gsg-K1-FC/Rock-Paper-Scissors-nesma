@@ -28,18 +28,7 @@ body{
     line-height: 0.8;
     flex-direction: column;
  }
- .score-contanier{
-   background-color: #fff;
-   text-transform: uppercase;
-   padding:20px 40px ;
-   text-align: center;
- }
- .score-contanier p{
-   color:#ccc;
-   font-size: 3.5rem;
-   font-weight: 700;
-   margin: 0;
- }
+ 
  .selections{
 
   display: flex;
