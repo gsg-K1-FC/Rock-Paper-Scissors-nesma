@@ -1,3 +1,13 @@
- <script>
-     
- </script>
+
+const selectionButtons = document.querySelectorAll=('[data-selection]');
+
+ selectionButtons.forEach(selectionButton => {
+    selectionButton.addEventListener('click', e => {
+      const selectionName = selectionButton.dataset.selection
+  mackeSelection(selectionName)
+    })
+})
+
+function mackeSelection(selection){
+    console.log(selection)
+}
