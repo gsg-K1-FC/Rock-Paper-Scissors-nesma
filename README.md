@@ -24,4 +24,4 @@ The winner is announced
 - Git-Github
 
 # You can see the final Result by clicking the below link:
-
+ https://gsg-k1-fc.github.io/Rock-Paper-Scissors-nesma/
